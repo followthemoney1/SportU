@@ -14,7 +14,7 @@ We made some cool features and animations that made our product better, you can 
 
 We used custom navigation and animation when clicking on an item. You can also use this element in your projects.
 
-<img src="https://dms.licdn.com/playlist/C4E05AQEkHYyix4vn6w/mp4-720p-30fp-crf28/0?e=1605099600&v=beta&t=UmMai6wijAguBAIIPCBdEnAZZXNtwuBp2sw9AuY10Mc" style="zoom:25%;" />
+![](https://dms.licdn.com/playlist/C4E05AQEkHYyix4vn6w/mp4-720p-30fp-crf28/0?e=1605099600&v=beta&t=UmMai6wijAguBAIIPCBdEnAZZXNtwuBp2sw9AuY10Mc)
 
 # Custom Category Picker 🤔
 
@@ -24,6 +24,4 @@ We have been looking for a long time how to make a choice of categories on the d
 <img src="https://dms.licdn.com/playlist/C4E05AQE1FZN1cPfLog/mp4-720p-30fp-crf28/0?e=1605099600&v=beta&t=2IgYFMZwzLRmnMwUcM5boGJ0zUOv7dknAvqpvQnMJHs" style="zoom:25%;" />
 
 ## License
-
 [MIT](https://choosealicense.com/licenses/mit/)
-
