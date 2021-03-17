@@ -2,9 +2,9 @@
 
 The application that we made for people who are fond of sports. The app shows sports news and helps you keep abreast of events.
 
-<img src="https://sportu.pro/img/app-store-icon.dfd1334f.png" alt="https://apps.apple.com/app/id1530732023" height="50"/>
+[<img src="https://sportu.pro/img/app-store-icon.dfd1334f.png" height="50"/>](https://apps.apple.com/app/id1530732023)
 
-<img src="https://sportu.pro/img/google-play-icon.b39a79a8.png" alt="https://play.google.com/store/apps/details?id=com.sportu" height="50" />
+[<img src="https://sportu.pro/img/google-play-icon.b39a79a8.png" height="50" />](https://play.google.com/store/apps/details?id=com.sportu)
 
 ## About
 
